@@ -8,7 +8,7 @@
 Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai, India. I am Machine Learning Developer, currently seeking full time roles in Data Scince/Machine Learning. I hold a B.Tech degree in Information Technology from Anna University, Chennai and a Master of Science degree in Computing Science from Simon Fraser University, Canada. 
 
 
-<img align="right" alt="img" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/readme_header.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
