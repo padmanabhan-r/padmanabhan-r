@@ -5,8 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:padmanabhan.r90@gmail.com)
 
-Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai, India. I am Machine Learning Developer, currently seeking full time roles in Data Scince/Machine Learning. I hold a B.Tech degree in Information Technology from Anna University, Chennai and a Master of Science degree in Computing Science from Simon Fraser University, Canada. 
-
+Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai, India. I am Machine Learning Developer, currently seeking full time roles in Data Science/Machine Learning. I hold a B.Tech degree in Information Technology from Anna University, Chennai and a Master of Science degree in Computing Science from Simon Fraser University, Canada. I am also a part-time guitar player.
 
 <img align="right" alt="img" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/readme_header.png" width="50%" height="auto" />
 
