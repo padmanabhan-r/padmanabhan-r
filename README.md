@@ -9,12 +9,9 @@ Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai,
 
 <img align="right" alt="img" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/12514027_10204761421270205_2397596640802648909_o.jpg" width="50%" height="auto" />
 
-
-#### 🌱 Things I am currently working on: 
-- XXXXX
-- XXXXX
-- XXXXX
-
+<a href="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabhan-rajendrakumar&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 #### :computer: Primary Skills, Technologies, Frameworks & IDEs: 
 <p>
@@ -30,6 +27,8 @@ Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai,
 <a href="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=padmanabhan-rajendrakumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-<a href="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabhan-rajendrakumar&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
+#### 🌱 Things I am currently working on: 
+- XXXXX
+- XXXXX
+- XXXXX
