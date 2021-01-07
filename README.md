@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is Padmanabhan Rajendrakumar!
 
-<img align="right" alt="img" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/12514027_10204761421270205_2397596640802648909_o.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/12514027_10204761421270205_2397596640802648909_o.jpg" width="40%" height="auto" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/padmanabhan-rajendrakumar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)
