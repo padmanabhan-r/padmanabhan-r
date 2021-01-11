@@ -21,6 +21,6 @@ Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai,
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 <a href="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar">
-  <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=padmanabhan-rajendrakumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="left" width="1000px" src="https://github-readme-stats.vercel.app/api?username=padmanabhan-rajendrakumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
