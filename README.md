@@ -11,11 +11,14 @@ Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai,
 
 #### :computer: Primary Skills, Technologies, Frameworks & IDEs: 
 <p>
+  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
 <code><img width="5%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/jupyter-seeklogo.com.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/apache-spark-seeklogo.com.eps"></code>
+<code><img width="10%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/google-cloud-seeklogo.com.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 <a href="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar">
