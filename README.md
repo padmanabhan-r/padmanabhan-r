@@ -13,7 +13,7 @@ Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai,
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
 <code><img width="5%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/jupyter-seeklogo.com.svg"></code>
-<code><img width="10%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/informatica-seeklogo.com.svg"></code>
+<code><img width="8%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/informatica-seeklogo.com.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
