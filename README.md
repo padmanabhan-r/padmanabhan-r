@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:padmanabhan.r90@gmail.com)
 
-Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai, India. I am Machine Learning Engineer at Ford Motor Company. I hold a B.Tech degree in Information Technology from Anna University, Chennai and a Master of Science degree in Computing Science from Simon Fraser University, Canada. I am also a part-time guitar player.
+Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai, India. I am a Machine Learning Engineer at Ford Motor Company. I hold a B.Tech degree in Information Technology from Anna University, Chennai and a Master of Science degree in Computing Science from Simon Fraser University, Canada. I am also a part-time guitar player.
 
 #### :computer: Primary Skills, Technologies, Frameworks & IDEs: 
 <p>
