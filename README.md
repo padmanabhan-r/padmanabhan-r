@@ -1,13 +1,11 @@
 ### Hi there 👋 
 ### This is Padmanabhan Rajendrakumar!
 
-<img align="right" alt="img" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/1.jpg" width="30%" height="auto" />
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/padmanabhan-rajendrakumar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:padmanabhan.r90@gmail.com)
 
-Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai, India. I am a Machine Learning Engineer at Ford Motor Company. I hold a B.Tech degree in Information Technology from Anna University, Chennai and a Master of Science degree in Computing Science from Simon Fraser University, Canada. I am also a part-time guitar player.
+Welcome to my Github page! I am Padmanabhan Rajendrakumar and I am from Chennai, India. I am a Machine Learning Engineer at Ford Motor Company. I hold a B.Tech degree in Information Technology from Anna University, Chennai and a Master of Science degree in Computing Science from Simon Fraser University, Canada.
 
 #### :computer: Primary Skills, Technologies, Frameworks & IDEs: 
 <p>
