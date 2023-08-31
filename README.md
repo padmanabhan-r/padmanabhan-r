@@ -12,7 +12,7 @@ Welcome to my Github page!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="5%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/google-cloud-seeklogo.com.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://vectorwiki.com/images/Nth1M__solidity.svg"></code>
+<code><img width="10%" src="https://github.com/uiwjs/file-icons/blob/master/icon/solidity.svg"></code>
 
 </p>
 
