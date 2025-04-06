@@ -2,15 +2,14 @@
 
 🚀 Building business-driven AI & software solutions | 🧠 Focused on GenAI, ML pipelines & end-to-end product delivery | 📊 Turning data into impact
 
-#### :computer: Skills, Technologies, Frameworks & IDEs: 
+#### 💻 Skills & Technologies  
 <p>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
-<code><img width="4%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/jupyter-seeklogo.com.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="5%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/google-cloud-seeklogo.com.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="5%" src="https://github.com/uiwjs/file-icons/blob/master/icon/solidity.svg"></code>
-<code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
 </p>
