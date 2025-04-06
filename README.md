@@ -1,8 +1,9 @@
 ### Hi there 👋 
 
-#### :computer: Primary Skills, Technologies, Frameworks & IDEs: 
+🚀 Building business-driven AI & software solutions | 🧠 Focused on GenAI, ML pipelines & end-to-end product delivery | 📊 Turning data into impact
+
+#### :computer: Skills, Technologies, Frameworks & IDEs: 
 <p>
-  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
 <code><img width="4%" src="https://github.com/padmanabhan-rajendrakumar/padmanabhan-rajendrakumar/blob/main/logos/jupyter-seeklogo.com.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
