@@ -4,6 +4,8 @@
 🧠 Focused on GenAI, ML pipelines & end-to-end product delivery  
 📊 Turning data into impact with dashboards, pipelines & scalable apps  
 
+---
+
 #### 💻 Primary Skills & Technologies  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -19,3 +21,12 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/qlik.svg" width="40" height="40" alt="Qlik"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face"/>
 </p>
+
+---
+
+#### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabhan-r&layout=compact&theme=radical" width="36.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=padmanabhan-r&show_icons=true&theme=radical" width="48%" />
+</p>
+
