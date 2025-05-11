@@ -1,8 +1,6 @@
 ### 👋 Hey, I'm Padmanabhan
 
 AI Engineer & Technical Project Manager @ Ford Motor Company  
-Curious mind | Systems thinker | Constant builder
-
 ---
 
 #### 🧪 What You’ll Find Here
