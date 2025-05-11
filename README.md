@@ -7,7 +7,7 @@ AI Engineer & Technical Project Manager @ Ford Motor Company
 
 - 🧠 Machine Learning & Generative AI experiments  
 - 🛠️ End-to-end data & ML pipelines (from notebooks to production)  
-- 📈 Dashboards & data viz for real-world impact  
+- 📈 Dashboards & data viz 
 - 🔗 Blockchain + AI projects exploring on-chain interactions  
 - 🗂️ Study materials, notes & learning repos
 
