@@ -1,12 +1,26 @@
-### Hi there 👋 
+### 👋 Hey, I'm Padmanabhan
 
-🚀 Building business-driven AI & software solutions  
-🧠 Focused on GenAI, ML pipelines & end-to-end product delivery  
-📊 Turning data into impact with dashboards, pipelines & scalable apps  
+AI Engineer & Technical Project Manager @ Ford Motor Company  
+Curious mind | Systems thinker | Constant builder
 
 ---
 
-#### 💻 Primary Skills & Technologies  
+#### 🧪 What You’ll Find Here
+
+- 🧠 Machine Learning & Generative AI experiments  
+- 🛠️ End-to-end data & ML pipelines (from notebooks to production)  
+- 📈 Dashboards & data viz for real-world impact  
+- 🔗 Blockchain + AI projects exploring on-chain interactions  
+- 🗂️ Study materials, notes & learning repos
+
+I like to build, break, and learn in public. Most of my projects are practical, some experimental, and all are open to feedback.
+
+Check out my GitHub Pages portfolio: [padmanabhan-r.github.io](https://padmanabhan-r.github.io/)  
+Let's connect on [LinkedIn](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)
+
+---
+
+#### 🧰 Toolbox  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
@@ -24,9 +38,8 @@
 
 ---
 
-#### 📈 GitHub Stats  
+#### 📊 GitHub by the Numbers  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabhan-r&layout=compact&theme=radical" width="36.5%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=padmanabhan-r&show_icons=true&theme=radical" width="48%" />
 </p>
-
