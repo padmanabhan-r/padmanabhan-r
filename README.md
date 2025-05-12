@@ -38,9 +38,11 @@ My work focuses on translating complex technical challenges into pragmatic, scal
 
 ---
 
-#### 📊 GitHub Professional Metrics  
+#### 🎸 Beyond Code  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabhan-r&layout=compact&theme=radical" width="36.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=padmanabhan-r&show_icons=true&theme=radical" width="48%" />
-</p>
+- 🎵 Play guitar and drums — metal is my jam  
+- 🎮 Video game enthusiast  
+
+---
+
+Thanks for stopping by!
