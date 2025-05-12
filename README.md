@@ -1,25 +1,27 @@
 ### 👋 Hey, I'm Padmanabhan
 
-AI Engineer & Technical Project Manager @ Ford Motor Company  
+**AI Engineer & Technical Project Manager @ Ford Motor Company**  
 ---
 
-#### 🧪 What You’ll Find Here
+#### 🧪 Professional Focus
 
-- 🧠 Machine Learning & Generative AI experiments  
-- 🛠️ End-to-end data & ML pipelines (from notebooks to production)  
-- 📈 Dashboards & data viz 
-- 🔗 Blockchain + AI projects exploring on-chain interactions  
-- 🗂️ Study materials, notes & learning repos
+- 🧠 Specializing in Machine Learning & Generative AI  
+- 🛠️ Data science and MLOps projects  
+- 📈 Advanced dashboards & data visualization  
+- 🔗 Blockchain technology and on-chain interaction analysis  
+- 🗂️ Comprehensive technical documentation and learning resources  
 
-I like to build, break, and learn in public. Most of my projects are practical, some experimental, and all are open to feedback.
+Committed to driving innovation through data-driven solutions and cutting-edge technological approaches.  
+My work focuses on translating complex technical challenges into pragmatic, scalable implementations.
 
-Check out my GitHub Pages portfolio: [padmanabhan-r.github.io](https://padmanabhan-r.github.io/)  
-Let's connect on [LinkedIn](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)
+🎯 **Portfolio:** [padmanabhan-r.github.io](https://padmanabhan-r.github.io/)  
+🤝 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)  
 
 ---
 
-#### 🧰 Toolbox  
-<p>
+#### 🧰 Technical Expertise  
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
@@ -36,7 +38,8 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/padmanabhan-rajendrakuma
 
 ---
 
-#### 📊 GitHub by the Numbers  
+#### 📊 GitHub Professional Metrics  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabhan-r&layout=compact&theme=radical" width="36.5%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=padmanabhan-r&show_icons=true&theme=radical" width="48%" />
