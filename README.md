@@ -41,7 +41,7 @@ My work focuses on translating complex technical challenges into pragmatic, scal
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=padmanabhan-r&show_icons=true&locale=en&layout=compact" alt="padmanabhan-r" />
   <img src="https://github-readme-stats.vercel.app/api?username=padmanabhan-r&show_icons=true&locale=en" alt="padmanabhan-r" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=padmanabhan-r&" alt="padmanabhan-r" />
+  <img src="" alt="padmanabhan-r" />
 </p>
 ---
 
