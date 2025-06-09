@@ -7,9 +7,7 @@
 
 - 🧠 Specializing in Machine Learning & Generative AI  
 - 🛠️ Data science and MLOps projects  
-- 📈 Advanced dashboards & data visualization  
-- 🔗 Blockchain technology and on-chain interaction analysis  
-- 🗂️ Comprehensive technical documentation and learning resources  
+- 📈 Advanced dashboards & data visualization   
 
 Committed to driving innovation through data-driven solutions and cutting-edge technological approaches.  
 My work focuses on translating complex technical challenges into pragmatic, scalable implementations.
