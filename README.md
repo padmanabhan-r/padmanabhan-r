@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Padmanabhan
 
-**AI Engineer & Technical Project Manager @ Ford Motor Company**  
+**AI Engineer & Project Manager @ Ford Motor Company**  
 ---
 
 #### 🧪 Professional Focus
