@@ -50,4 +50,4 @@ My work focuses on translating complex technical challenges into pragmatic, scal
 
 ---
 
-Thanks for stopping by!
+👾
