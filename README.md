@@ -1,53 +1,14 @@
 ### 👋 Hey, I'm Padmanabhan
 
-**AI Engineer & Technical Project Manager @ Ford Motor Company**  
----
+A person-shaped process running on limited RAM and excessive curiosity.  
+The universe is annoyingly large; my brain cache is annoyingly small.  
+Stray thoughts overflow the `/tmp` directory of my mind,  
+so I store the salvageable ones here — version-controlled, finally.
 
-#### 🧪 Professional Focus
+I wrangle AI, poke at data until it confesses its secrets,  
+and build systems that behave *almost* like I intended.
 
-- 🧠 Specializing in Machine Learning & Generative AI  
-- 🛠️ Data science and MLOps projects  
-- 📈 Advanced dashboards & data visualization   
+When I'm not coding, I’m making loud noises with guitars and drums,  
+or losing boss fights for “research purposes.”
 
-Committed to driving innovation through data-driven solutions and cutting-edge technological approaches.  
-My work focuses on translating complex technical challenges into pragmatic, scalable implementations.
-
-🎯 **Portfolio:** [padmanabhan-r.github.io](https://padmanabhan-r.github.io/)  
-🤝 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)  
-
----
-
-#### 🧰 Technical Expertise  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/qlik.svg" width="40" height="40" alt="Qlik"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face"/>
-</p>
-
-📈 **My GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=padmanabhan-r&show_icons=true&locale=en&layout=compact" alt="padmanabhan-r" />
-  <img src="https://github-readme-stats.vercel.app/api?username=padmanabhan-r&show_icons=true&locale=en" alt="padmanabhan-r" />
-  <img src="" alt="padmanabhan-r" />
-</p>
----
-
-#### 🎸 Beyond Code  
-
-- 🎵 Play guitar and drums — metal is my jam  
-- 🎮 Video game enthusiast  
-
----
-
-👾
+👾 Mostly harmless. Sometimes caffeinated. Always compiling.
