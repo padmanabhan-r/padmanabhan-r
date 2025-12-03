@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Padmanabhan  
 
-**"I write code of dubious authenticity."**
+I write code of dubious authenticity.
 
 A person-shaped process running on limited RAM and excessive curiosity.  
 The universe is annoyingly vast; my brain cache is frustratingly small.  
