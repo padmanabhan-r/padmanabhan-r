@@ -1,18 +1,18 @@
-### 👋 Hey, I'm Padmanabhan  
-
-I write code of dubious authenticity.
+### 👋 Hey, I’m Padmanabhan
 
 A person-shaped process running on limited RAM and excessive curiosity.  
-The universe is annoyingly vast; my brain cache is frustratingly small.  
-Stray thoughts overflow the `/tmp` directory of my mind,  
-so the recoverable ones get version-controlled here.
+The universe is annoyingly large; my mental cache is tragically finite.  
+Stray ideas leak into `/tmp`,  
+so the useful ones get version-controlled here.
 
-I wrangle AI, interrogate data until it reveals its secrets,  
-and build systems that behave *almost* like I intended.
+I build Applied AI, agentic systems, and software that usually does what it’s told—  
+after sufficient interrogation of data and a few strategic print statements.
 
-When I'm not coding, I'm making loud noises with guitars and drums,  
-or losing boss fights “for research.”
+Lately, I’ve been **tinkering with Edge AI**, wiring together cameras, bulbs, and whatever hardware is lying around the house, and seeing how far I can push intelligence closer to the edge.
 
-👾 Mostly harmless. Sometimes caffeinated. Always compiling.
+When I’m not coding, I’m making loud noises with guitars and drums,  
+or losing boss fights “to understand the mechanics.”
 
-**📎 LinkedIn:** [linkedin.com/in/padmanabhan-rajendrakumar](https://www.linkedin.com/in/padmanabhan-rajendrakumar/)
+👾 Mostly harmless. Frequently caffeinated. Relentlessly compiling.
+
+**📎 LinkedIn:** https://www.linkedin.com/in/padmanabhan-rajendrakumar/
