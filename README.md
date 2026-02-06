@@ -52,15 +52,6 @@ A feedback-first practice system that listens as you play and intervenes in mill
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=padmanabhan-r&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=padmanabhan-r&show_icons=true" />
-</p>
-
----
-
 ### 🎵 Beyond Work
 
 - 🎸 Guitar & drums (metal, prog, anything with riffs)
