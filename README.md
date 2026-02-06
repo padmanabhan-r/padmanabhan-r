@@ -53,7 +53,7 @@ Feedback while you play. Not after.
 **Interfaces**
 - React, Streamlit, Gradio  
 - Power BI, Qlik, Tableau
-- 
+  
 ---
 
 ### 🎵 Off the Clock
