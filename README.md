@@ -1,62 +1,66 @@
-### 👋 Hey, I'm Padmanabhan
+### 👋 Hi. I’m Padmanabhan.
 
-**Hands-on AI Systems Builder | Technical Product @ Ford Motor Company**  
-I design and ship production AI systems — from edge devices to cloud platforms.
-
----
-
-### 🔧 What I Actually Build
-
-- **Enterprise AI systems** for document intelligence, regulatory compliance, and cost reduction  
-- **Custom RAG-style methods** for large (300+ page) technical documents  
-- **Agentic AI workflows** for requirements analysis, benchmarking, and decision support  
-- **Edge AI & real-time feedback systems** using audio, sensors, and embedded hardware  
-
-Outside work, I’m constantly tinkering with **Raspberry Pi, audio DSP, electronics, and Edge AI** — turning ideas into working systems.
+**AI Systems Builder | Technical Product @ Ford Motor Company**  
+I build production AI systems. Edge to cloud. Fast loops, slow loops.
 
 ---
 
-### 🎸 Featured Project
+### ⚙️ What I Build
 
-**FretCoach — AI-Powered Real-Time Guitar Practice System**  
-A feedback-first practice system that listens as you play and intervenes in milliseconds.
+- Enterprise AI systems for **document intelligence, compliance, and cost reduction**
+- **Non-standard RAG methods** for large (300+ page) technical documents
+- **Agentic workflows** for requirements analysis, benchmarking, and decision support
+- **Edge AI & real-time feedback systems** using audio, sensors, and embedded hardware
 
-- On-device audio analysis (fast loop)
-- AI coaching & analytics (slow loop)
-- Edge hardware + cloud platform
+Outside work: Raspberry Pi, audio DSP, electronics, and Edge AI.  
+If it can be measured, it can be improved.
+
+---
+
+### 🎸 Current Pet Project
+
+**FretCoach** — real-time guitar practice, powered by AI.  
+Feedback while you play. Not after.
+
+- On-device audio analysis (milliseconds)
+- AI coaching & reflection (seconds)
+- Edge hardware + cloud backend
 - Screen, voice, and ambient light as feedback channels
 
 > Most tools correct mistakes.  
-> **FretCoach prevents them.**
+> **This prevents them.**
 
 ---
 
-### 🧠 Technical Focus
+### 🧠 Stack (Curated)
 
-**AI / ML Systems**
-- LLMs, RAG (custom retrieval & selective context injection), Agentic systems  
-- PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenAI
+**AI / ML**
+- LLMs, RAG (selective context injection), Agentic systems  
+- PyTorch, TensorFlow, scikit-learn  
+- Hugging Face, OpenAI
 
 **Edge & Backend**
 - Python, FastAPI  
-- On-device ML (TensorFlow Lite), audio analysis, sensors
+- TensorFlow Lite, audio analysis, sensors
 
-**Data & Platforms**
+**Platform**
 - PostgreSQL, BigQuery, MongoDB  
-- Kubernetes, Red Hat OpenShift, Docker, Terraform  
-- CI/CD (Tekton, ArgoCD), GCP, Vertex AI
+- Kubernetes, Red Hat OpenShift  
+- Docker, Terraform  
+- CI/CD (Tekton, ArgoCD)  
+- GCP, Vertex AI
 
 **Interfaces**
 - React, Streamlit, Gradio  
-- Dashboards for decision-making (Power BI, Qlik, Tableau)
-
+- Power BI, Qlik, Tableau
+- 
 ---
 
-### 🎵 Beyond Work
+### 🎵 Off the Clock
 
-- 🎸 Guitar & drums (metal, prog, anything with riffs)
-- 🧠 Obsessed with feedback loops — in music, learning, and systems
-- 🛠️ If it can run on a Pi, I probably tried it
+- 🎸 Guitar & drums (metal, prog)
+- 🔁 Feedback loops everywhere
+- 🛠️ If it runs on a Pi, it’s fair game
 
-📍 **Portfolio:** https://padmanabhan-r.github.io  
-🤝 **LinkedIn:** https://www.linkedin.com/in/padmanabhan-rajendrakumar/
+🔗 https://padmanabhan-r.github.io  
+🔗 https://www.linkedin.com/in/padmanabhan-rajendrakumar/
