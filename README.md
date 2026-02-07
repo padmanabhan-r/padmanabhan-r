@@ -1,66 +1,61 @@
-### 👋 Hi. I’m Padmanabhan.
+### 👋 hi anon, i’m padmanabhan
 
-**AI Systems Builder | Technical Product @ Ford Motor Company**  
-I build production AI systems. Edge to cloud. Fast loops, slow loops.
-
----
-
-### ⚙️ What I Build
-
-- Enterprise AI systems for **document intelligence, compliance, and cost reduction**
-- **Non-standard RAG methods** for large (300+ page) technical documents
-- **Agentic workflows** for requirements analysis, benchmarking, and decision support
-- **Edge AI & real-time feedback systems** using audio, sensors, and embedded hardware
-
-Outside work: Raspberry Pi, audio DSP, electronics, and Edge AI.  
-If it can be measured, it can be improved.
+i build systems that listen, react, and adapt.
 
 ---
 
-### 🎸 Current Pet Project
+### 🧪 what i’m usually tinkering with
 
-**FretCoach** — real-time guitar practice, powered by AI.  
-Feedback while you play. Not after.
-
-- On-device audio analysis (milliseconds)
-- AI coaching & reflection (seconds)
-- Edge hardware + cloud backend
-- Screen, voice, and ambient light as feedback channels
-
-> Most tools correct mistakes.  
-> **This prevents them.**
+- real-time feedback systems (audio, sensors, edge devices)
+- agentic and RAG workflow ideas
+- edge AI experiments on raspberry pi, mics, cameras, and whatever’s lying around
 
 ---
 
-### 🧠 Stack (Curated)
+### 🎸 fretcoach (current rabbit hole)
 
-**AI / ML**
-- LLMs, RAG (selective context injection), Agentic systems  
-- PyTorch, TensorFlow, scikit-learn  
-- Hugging Face, OpenAI
+*this section changes as i move from one rabbit hole to the next.*
 
-**Edge & Backend**
-- Python, FastAPI  
-- TensorFlow Lite, audio analysis, sensors
+**fretcoach** is an AI-powered guitar practice system.  
+it listens while you play and intervenes immediately.
 
-**Platform**
-- PostgreSQL, BigQuery, MongoDB  
-- Kubernetes, Red Hat OpenShift  
-- Docker, Terraform  
-- CI/CD (Tekton, ArgoCD)  
-- GCP, Vertex AI
+- on-device audio analysis
+- ai coaching and reflection
+- edge hardware + cloud backend
+- feedback via screen, voice, and ambient light
 
-**Interfaces**
-- React, Streamlit, Gradio  
-- Power BI, Qlik, Tableau
-  
+> most tools tell you what you did wrong.  
+> **this stops you from doing it again.**
+
 ---
 
-### 🎵 Off the Clock
+### 🧠 tools i reach for
 
-- 🎸 Guitar & drums (metal, prog)
-- 🔁 Feedback loops everywhere
-- 🛠️ If it runs on a Pi, it’s fair game
+**ai / ml**
+- llms, rag, agentic systems
+- pytorch, tensorflow, scikit-learn
+- hugging face, openai
+
+**edge / backend**
+- python, fastapi
+- tensorflow lite, audio dsp, sensors
+
+**infra**
+- postgres, mongodb, bigquery
+- kubernetes, openshift
+- docker, terraform
+- gcp
+
+**ui**
+- react, streamlit, gradio
+- dashboards when i really have to
+
+---
+
+### 🎵 outside the terminal
+
+- guitar & drums (metal, prog, noise)
+- if it runs on a pi, it’s fair game
 
 🔗 https://padmanabhan-r.github.io  
 🔗 https://www.linkedin.com/in/padmanabhan-rajendrakumar/
