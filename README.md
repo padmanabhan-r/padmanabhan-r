@@ -13,7 +13,7 @@ i build systems that listen, react, and adapt.
 
 ---
 
-### 🚑 quantumstate (current rabbit hole)
+### ⚡ quantumstate (current rabbit hole)
 
 *this section changes as i move from one rabbit hole to the next.*
 *previously: fretcoach — an AI-powered guitar practice system.*
