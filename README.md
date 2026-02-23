@@ -9,15 +9,32 @@ i build systems that listen, react, and adapt.
 - real-time feedback systems (audio, sensors, edge devices)
 - agentic and RAG workflow ideas
 - edge AI experiments on raspberry pi, mics, cameras, and whatever’s lying around
+- autonomous systems that close loops without waiting for humans
 
 ---
 
-### 🎸 fretcoach (current rabbit hole)
+### 🚑 quantumstate (current rabbit hole)
 
 *this section changes as i move from one rabbit hole to the next.*
 
-**fretcoach** is an AI-powered guitar practice system.  
-it listens while you play and intervenes immediately.
+**quantumstate** is an autonomous incident response system built entirely inside elastic.
+
+it detects anomalies, investigates root causes, executes remediation, and verifies recovery — without shipping your data outside the cluster.
+
+- es|ql-based anomaly detection
+- semantic runbook retrieval (elser)
+- workflow-triggered remediation
+- autonomous verification loop
+
+> mean time to recovery: minutes, not hours.
+
+---
+
+### 🎸 fretcoach (previous rabbit hole)
+
+**fretcoach** was an AI-powered guitar practice system.
+
+it listened while you played and intervened immediately — closing the feedback loop in milliseconds.
 
 - on-device audio analysis
 - ai coaching and reflection
@@ -25,7 +42,7 @@ it listens while you play and intervenes immediately.
 - feedback via screen, voice, and ambient light
 
 > most tools tell you what you did wrong.  
-> **this stops you from doing it again.**
+> this stopped you from repeating it.
 
 ---
 
