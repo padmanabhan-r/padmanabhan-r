@@ -13,26 +13,37 @@ i build systems that listen, react, and adapt.
 
 ---
 
-### ⚡ quantumstate (current rabbit hole)
+### 🧸 taleweaver (current rabbit hole)
 
 *this section changes as i move from one rabbit hole to the next.*
-*previously: fretcoach — an AI-powered guitar practice system.*
+*previously: quantumstate — autonomous incident response inside elastic.*
 
-**quantumstate** is an autonomous incident response system built entirely inside elastic.
+**taleweaver** is a voice-first AI storytelling app for kids, built on gemini live.
 
-it detects anomalies, investigates root causes, executes remediation, and verifies recovery — without shipping your data outside the cluster.
+a child holds up a toy, speaks to it, and an illustrated story builds itself around their imagination in real time — barge-in, tool-called illustrations, creativity badges, and all.
 
-- es|ql-based anomaly detection
-- semantic runbook retrieval (elser)
-- workflow-triggered remediation
-- autonomous verification loop
+- gemini live for real-time voice with native barge-in
+- autonomous tool calls mid-narration (`generate_illustration`, `award_badge`)
+- four gemini models orchestrated into one seamless experience
+- deployed on cloud run — [taleweaver.online](https://taleweaver.online)
 
-> most systems alert you to the problem.
-> **this one fixes it before you wake up.**
+> most children's apps talk at kids.
+> **this one listens back.**
 
 ---
 
-### 🎸 fretcoach (previous rabbit hole)
+### ⚡ quantumstate (previous rabbit hole)
+
+**quantumstate** was an autonomous incident response system built entirely inside elastic.
+
+it detected anomalies, investigated root causes, executed remediation, and verified recovery — without shipping your data outside the cluster.
+
+> most systems alert you to the problem.
+> this one fixed it before you woke up.
+
+---
+
+### 🎸 fretcoach (older rabbit hole)
 
 **fretcoach** was an AI-powered guitar practice system.
 
